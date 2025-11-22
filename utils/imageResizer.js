@@ -3,7 +3,7 @@ import path from "path";
 import sharp from "sharp";
 
 // 🔧 Hardcoded relative directory path
-const IMAGE_DIR = "/home/withtahmid/cdn/photography"; // change this to your folder
+const IMAGE_DIR = "/home/withtahmid/cdn/sketches"; // change this to your folder
 
 const allowedExt = [".jpg", ".jpeg", ".png", ".webp"];
 
